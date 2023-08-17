@@ -9,7 +9,7 @@ tags:
   - $attrs
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 ## vue3 数据通信的方式
 文章是全部采用的 script setup 这种组合式API写法。

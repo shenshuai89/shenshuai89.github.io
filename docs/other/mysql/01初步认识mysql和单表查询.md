@@ -4,7 +4,7 @@ date: 2022-10-23 20:07:09
 permalink: /pages/4f2be2/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 # mysql概念
 ## sql、DB、DBMS之间关系

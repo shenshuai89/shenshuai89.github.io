@@ -7,7 +7,7 @@ tags:
 permalink: /pages/bf75b0/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 
 # js函数的防抖和节流的是什么

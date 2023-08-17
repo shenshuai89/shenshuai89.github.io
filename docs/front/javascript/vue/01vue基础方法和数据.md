@@ -7,15 +7,15 @@ tags:
 permalink: /pages/b887e2/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
-*  [第一篇：vue基础介绍，数据绑定(computed+watch)](http://www.shenshuai.me/2019/06/18/vue基础入门一方法和数据/)
-*  [第二篇：vue样式class和style](http://www.shenshuai.me/2019/06/20/vue样式class和style)
-*  [第三篇：vue组件及生命周期](http://www.shenshuai.me/2019/06/22/vue组件及生命周期)
-*  [第四篇：vue父子组件之间的数据传递](http://www.shenshuai.me/2019/06/24/vue父子组件之间的数据传递/)
-*  [第五篇：vue动画与过渡](http://www.shenshuai.me/2019/06/26/vue动画与过渡/)
-*  [第六篇：vue-router路由的使用](http://www.shenshuai.me/2019/06/28/vue-router路由的使用/)
-*  [第七篇：vuex数据管理](http://www.shenshuai.me/2019/06/30/vuex数据管理/)
+*  [第一篇：vue基础介绍，数据绑定(computed+watch)](https://shenshuai89.github.io//2019/06/18/vue基础入门一方法和数据/)
+*  [第二篇：vue样式class和style](https://shenshuai89.github.io//2019/06/20/vue样式class和style)
+*  [第三篇：vue组件及生命周期](https://shenshuai89.github.io//2019/06/22/vue组件及生命周期)
+*  [第四篇：vue父子组件之间的数据传递](https://shenshuai89.github.io//2019/06/24/vue父子组件之间的数据传递/)
+*  [第五篇：vue动画与过渡](https://shenshuai89.github.io//2019/06/26/vue动画与过渡/)
+*  [第六篇：vue-router路由的使用](https://shenshuai89.github.io//2019/06/28/vue-router路由的使用/)
+*  [第七篇：vuex数据管理](https://shenshuai89.github.io//2019/06/30/vuex数据管理/)
 
 ## Vue介绍
 #### Vue和传统的DOM开发的区别
@@ -36,7 +36,7 @@ var app = new Vue({
 ```
 
 #### Vue与(react和angular)的区别
-[vue和react的详细对比可以查看另一篇文章](http://www.shenshuai.me/2018/08/22/React%20%E4%B8%8E%20Vue%20%E5%88%9B%E5%BB%BA%E5%90%8C%E4%B8%80%E6%AC%BE%20App%E7%9A%84%E5%AF%B9%E6%AF%94/)
+[vue和react的详细对比可以查看另一篇文章](https://shenshuai89.github.io//2018/08/22/React%20%E4%B8%8E%20Vue%20%E5%88%9B%E5%BB%BA%E5%90%8C%E4%B8%80%E6%AC%BE%20App%E7%9A%84%E5%AF%B9%E6%AF%94/)
 
 vue和angular的对比
 

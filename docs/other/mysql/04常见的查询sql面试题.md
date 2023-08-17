@@ -4,7 +4,7 @@ date: 2022-10-23 20:09:55
 permalink: /pages/630559/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 
 ### 1.获取每个部门最高薪水的员工

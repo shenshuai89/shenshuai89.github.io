@@ -8,7 +8,7 @@ tags:
   - ts
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 使用vite工具搭建项目
 使用技术：vite+vue3+typescript

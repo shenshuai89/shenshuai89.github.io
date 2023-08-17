@@ -7,15 +7,15 @@ tags:
 permalink: /pages/93e029/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
-*  [第一篇：vue基础介绍，数据绑定(computed+watch)](http://www.shenshuai.me/2019/06/18/vue基础入门一方法和数据/)
-*  [第二篇：vue样式class和style](http://www.shenshuai.me/2019/06/20/vue样式class和style)
-*  [第三篇：vue组件及生命周期](http://www.shenshuai.me/2019/06/22/vue组件及生命周期)
-*  [第四篇：vue父子组件之间的数据传递](http://www.shenshuai.me/2019/06/24/vue父子组件之间的数据传递/)
-*  [第五篇：vue动画与过渡](http://www.shenshuai.me/2019/06/26/vue动画与过渡/)
-*  [第六篇：vue-router路由的使用](http://www.shenshuai.me/2019/06/28/vue-router路由的使用/)
-*  [第七篇：vuex数据管理](http://www.shenshuai.me/2019/06/30/vuex数据管理/)
+*  [第一篇：vue基础介绍，数据绑定(computed+watch)](https://shenshuai89.github.io//2019/06/18/vue基础入门一方法和数据/)
+*  [第二篇：vue样式class和style](https://shenshuai89.github.io//2019/06/20/vue样式class和style)
+*  [第三篇：vue组件及生命周期](https://shenshuai89.github.io//2019/06/22/vue组件及生命周期)
+*  [第四篇：vue父子组件之间的数据传递](https://shenshuai89.github.io//2019/06/24/vue父子组件之间的数据传递/)
+*  [第五篇：vue动画与过渡](https://shenshuai89.github.io//2019/06/26/vue动画与过渡/)
+*  [第六篇：vue-router路由的使用](https://shenshuai89.github.io//2019/06/28/vue-router路由的使用/)
+*  [第七篇：vuex数据管理](https://shenshuai89.github.io//2019/06/30/vuex数据管理/)
 
 ## 单元素/组件的过渡
 > Vue 提供了 transition 的封装组件，在下列情形中，可以给任何元素和组件添加进入/离开过渡

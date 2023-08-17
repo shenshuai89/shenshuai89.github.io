@@ -7,7 +7,7 @@ tags:
 permalink: /pages/04574e/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 
 ## 下载vue-cli基础框架

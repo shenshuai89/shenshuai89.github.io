@@ -7,7 +7,7 @@ tags:
 permalink: /pages/bd798e/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 # 使用ws创建WebSocket服务
 ## 新建package.json，用于安装ws

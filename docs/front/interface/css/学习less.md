@@ -7,7 +7,7 @@ tags:
 permalink: /pages/633343/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 ## css的预处理语言，可以理解成是对css的一层封装，但最终less代码还是要编译成css，浏览器不认识less。
 使用less的方法

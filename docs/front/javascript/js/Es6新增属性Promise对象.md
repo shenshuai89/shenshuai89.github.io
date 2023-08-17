@@ -7,7 +7,7 @@ tags:
 permalink: /pages/0e3957/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 ## Promise对象的创建
 > promise解决前端异步请求过程的回调问题，在回调函数过程中，往往无法知道哪个回调函数先执行结束，而且这个结束状态的时间点也无法控制，和网络状态，服务器性能等因素有关。

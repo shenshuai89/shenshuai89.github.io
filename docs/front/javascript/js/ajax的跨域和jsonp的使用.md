@@ -7,7 +7,7 @@ tags:
 permalink: /pages/6a94a3/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 文章中源码地址：[github](https://github.com/shenshuai89/ajax-jsonp)
 ## JavaScript原生ajax对象

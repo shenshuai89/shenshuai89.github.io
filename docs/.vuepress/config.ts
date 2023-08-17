@@ -7,7 +7,7 @@ import { dynamicSideBar } from "./config/sidebar.js";
 // import baiduCode from "./config/baiduCode"; // 百度统计hm码
 import htmlModules from "./config/htmlModules"; // 自定义插入的html块
 
-const DOMAIN_NAME = "www.shenshuai.me"; // 域名 (不带https)
+const DOMAIN_NAME = "shenshuai89.github.io/"; // 域名 (不带https)
 const WEB_SITE = `http://${DOMAIN_NAME}`; // 网址
 
 export default {
@@ -259,7 +259,7 @@ export default {
     // 文章默认的作者信息，(可在md文件中单独配置此信息) string | {name: string, link?: string}
     author: {
       name: "北鸟南游", // 必需
-      link: "http://www.shenshuai.me", // 可选的
+      link: "https://shenshuai89.github.io/", // 可选的
     },
 
     // 博主信息 (显示在首页侧边栏)
@@ -301,7 +301,7 @@ export default {
     extendFrontmatter: {
       author: {
         name: "北鸟南游",
-        link: "http://www.shenshuai.me",
+        link: "https://shenshuai89.github.io/",
       },
     },
 

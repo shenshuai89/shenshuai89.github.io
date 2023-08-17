@@ -4,7 +4,7 @@ date: 2022-10-23 17:56:05
 permalink: /pages/d1f96a/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 > 学习目标：开发一套完整的前端UI库。
 

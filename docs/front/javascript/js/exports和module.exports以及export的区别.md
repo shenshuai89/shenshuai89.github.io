@@ -7,7 +7,7 @@ tags:
 permalink: /pages/750c26/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 
 >> exports和module.exports属于CommonJs规范，export属于Es6定义

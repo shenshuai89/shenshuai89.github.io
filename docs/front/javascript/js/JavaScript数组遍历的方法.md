@@ -8,7 +8,7 @@ description: 关于数组Array遍历的方法
 permalink: /pages/87fdf8/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 
 ## 数组Array遍历方法概述

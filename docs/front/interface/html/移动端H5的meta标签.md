@@ -8,7 +8,7 @@ description: 移动端head头部meta标签
 permalink: /pages/988573/
 author: 
   name: 北鸟南游
-  link: http://www.shenshuai.me
+  link: https://shenshuai89.github.io/
 ---
 
 ## 移动端head头部meta标签
