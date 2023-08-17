@@ -1,0 +1,31 @@
+# 定义 Workflow 的名字
+name: 同步更新blog
+
+# 定义 Workflow 的触发器；合并主分支后，执行打包
+on:
+  push:
+    branches: ['master']
+
+# 定义 Workflow 的 job
+jobs:
+  build:
+    name: deploy to shenshuai89.github.io
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: install node
+        uses: actions/setup-node@v3.0.0
+        with:
+          node-version: '16.17.0'
+          registry-url: https://registry.npmjs.org
+      - name: 全局安装依赖
+        run: npm install
+      - name: build打包构建
+        run: npm run build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.2.2
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          REPOSITORY_NAME: shenshuai89/shenshuai89.github.io
+          BRANCH: gh_pages
+          FOLDER: docs/.vuepress/dist
