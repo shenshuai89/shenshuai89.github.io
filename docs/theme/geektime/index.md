@@ -3,6 +3,8 @@ title: 极客专栏
 date: 2023-08-22 00:14:26
 permalink: /pages/1a0968/
 categories:
+  - theme
+  - geektime
   - 极客
   - 专题小册
 tags:

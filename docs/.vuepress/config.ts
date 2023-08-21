@@ -245,6 +245,11 @@ export default {
           path: "/theme/graphics/",
           children: dynamicSideBar("/theme/graphics/"),
         },
+        {
+          title: "极客专栏",
+          path: "/theme/geektime/",
+          children: dynamicSideBar("/theme/geektime/"),
+        },
         ...dynamicSideBar("/theme/")
         // {
         //   title: "基于云开发模式开发微信小程序",
