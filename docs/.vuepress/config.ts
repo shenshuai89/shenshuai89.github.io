@@ -80,6 +80,7 @@ export default {
           { text: "面试相关", link: "/theme/interview/" },
           { text: "图形学入门", link: "/theme/graphics/" },
           { text: "入门算法", link: "/theme/algorithm/" },
+          { text: "极客专栏", link: "/theme/geektime/" },
         ],
       },
       {
