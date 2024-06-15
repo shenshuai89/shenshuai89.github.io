@@ -81,6 +81,7 @@ export default {
           { text: "图形学入门", link: "/theme/graphics/" },
           { text: "入门算法", link: "/theme/algorithm/" },
           { text: "极客专栏", link: "/theme/geektime/" },
+          { text: "慕客专栏", link: "/theme/mooc/" },
         ],
       },
       {
@@ -249,6 +250,11 @@ export default {
           title: "极客专栏",
           path: "/theme/geektime/",
           children: dynamicSideBar("/theme/geektime/"),
+        },
+        {
+          title: "慕客客专栏",
+          path: "/theme/mooc/",
+          children: dynamicSideBar("/theme/mooc/"),
         },
         ...dynamicSideBar("/theme/")
         // {
