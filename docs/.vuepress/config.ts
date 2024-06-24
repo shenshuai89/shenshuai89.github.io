@@ -181,6 +181,11 @@ export default {
               children: dynamicSideBar("/front/javascript/node/"),
             },
             {
+              title: "nextjs",
+              path: "/front/javascript/nextjs/",
+              children: dynamicSideBar("/front/javascript/nextjs/"),
+            },
+            {
               title: "其它框架",
               path: "/front/other/",
               children: dynamicSideBar("/front/other/"),
