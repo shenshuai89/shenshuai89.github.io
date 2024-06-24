@@ -6,6 +6,7 @@ author:
   name: 北鸟南游
   link: https://shenshuai89.github.io/
 ---
+
 案例原文：[https://nextjs.org/learn/dashboard-app/getting-started](https://nextjs.org/learn/dashboard-app/getting-started)
 
 ## 创建新项目
@@ -26,7 +27,7 @@ cd nextjs-dashboard
 让我们花点时间探讨一下这个项目。
 ## 目录文件夹结构
 您会注意到该项目具有以下文件夹结构：
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/737887/1719126327578-3ef15b3e-9a33-4050-ad95-cdae03b9a380.png#averageHue=%23f7f7f7&clientId=udea8d261-86f8-4&from=paste&height=687&id=u381db838&originHeight=1374&originWidth=3200&originalType=binary&ratio=2&rotation=0&showTitle=false&size=513624&status=done&style=none&taskId=ud1a15c53-8e86-4eb7-ad0c-84eb14b5364&title=&width=1600)
+![image.png](/assets/images/nextjs/01-1image.png)
 
 - `/app`：包含应用程序的所有路由、组件和逻辑，这是您主要工作的地方。
 - `/app/lib`：包含应用程序中使用的函数，例如可重复使用的实用程序函数和数据提取函数。
@@ -90,4 +91,4 @@ pnpm dev
 ```
 `pnpm dev`在端口3000上启动Next.js开发服务器。您可以选择使用npm或首选的包管理器，而不是pnpm。
 让我们检查一下它是否有效。打开`http://localhost:3000`在您的浏览器上。您的主页应该如下所示：
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/737887/1719127406269-ea467cfd-540f-4add-b730-b229bc004893.png#averageHue=%23d6d5d5&clientId=u3a30e02f-3b4b-4&from=paste&height=248&id=u250daddb&originHeight=496&originWidth=3296&originalType=binary&ratio=2&rotation=0&showTitle=false&size=245908&status=done&style=shadow&taskId=ub8b952da-3f17-4739-97e6-4b70f9f0a84&title=&width=1648)
+![image.png](/assets/images/nextjs/01-2image.png)

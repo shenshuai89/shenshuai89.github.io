@@ -50,6 +50,10 @@ export default {
                   },
                 ],
               },
+              {
+                text: "Nextjs",
+                link: "/front/javascript/nextjs/",
+              },
             ],
           },
           {
