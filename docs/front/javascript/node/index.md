@@ -6,3 +6,6 @@ author:
   name: 北鸟南游
   link: https://shenshuai89.github.io/
 ---
+
+## node 案例
+- [01-nextjs起步-[翻译官网案例]](./01-nextjs起步-[翻译官网案例].md)
