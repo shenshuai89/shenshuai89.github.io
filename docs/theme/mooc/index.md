@@ -22,3 +22,5 @@ author:
 [003-typescript+reactNative开发喜马拉雅APP](./003-typescript+reactNative开发喜马拉雅APP.md)
 
 [004-flutter入门，实战携程网app开发](./004-flutter入门，实战携程网app开发.md)
+
+[005-Vue3+TS打造企业级组件库前端中高级开发者必修课](./005-Vue3+TS打造企业级组件库前端中高级开发者必修课.md)
