@@ -11,3 +11,5 @@ author:
   link: https://shenshuai89.github.io/
 ---
 # 目录
+
+- [珠峰培训资料](./珠峰培训资料.md)
