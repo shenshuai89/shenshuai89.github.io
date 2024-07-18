@@ -60,3 +60,5 @@ author:
 [022-JavaScript设计模式与开发实践](./022-JavaScript设计模式与开发实践.md)
 
 [023-Java并发编程与高并发解决方案](./023-Java并发编程与高并发解决方案.md)
+
+[024-Google资深工程师深度讲解Go语言](./024-Google资深工程师深度讲解Go语言.md)
