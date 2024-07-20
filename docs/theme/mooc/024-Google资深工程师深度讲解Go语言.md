@@ -6,6 +6,10 @@ author:
   name: 北鸟南游
   link: https://shenshuai89.github.io/
 ---
+
+
+[资源下载](https://pan.baidu.com/s/1KZq99I5KaJnM20mSr04sew)提取码： vv3y
+
 ## 课程目录：
 ### 第1章 课程介绍 
 
@@ -307,5 +311,3 @@ Channel是Goroutine之间通信的桥梁，它和函数一样是一等公民。�
 - 19-1 体会Go语言的设计
 - 19-2 课程总结
 
-
-[资源下载](https://pan.baidu.com/s/1KZq99I5KaJnM20mSr04sew)提取码： vv3y
