@@ -340,6 +340,18 @@ export default {
         content: "前端开发工程师,web前端技术博客,专注web前端学习与总结。",
       },
     ],
+    // 添加百度统计 https://tongji.baidu.com/
+    [
+      'script', {}, `
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?009ff1e3b6759ec88dff629149967382";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+      `
+    ],
     // ["meta", { name: "theme-color", content: "#11a8cd" }], // 移动浏览器主题颜色
     // [
     //   "script",
