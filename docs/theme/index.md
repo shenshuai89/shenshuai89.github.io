@@ -13,3 +13,7 @@ author:
 # 目录
 
 - [珠峰培训资料](./珠峰培训资料.md)
+
+- [极客时间资料](./geektime/index.md)
+
+- [mooc幕客网资料](./mooc/index.md)
