@@ -90,7 +90,7 @@ export default {
       },
       {
         text: "关于我",
-        link: "/me/about",
+        link: "/about/",
       },
       {
         text: "归档",

@@ -4,7 +4,7 @@ home: true,
 heroText: Hello Coder! 
 tagline: 北鸟南游：北方的一只小小鸟,目前在南方城市飘游。
 actionText: 关于我
-actionLink: /me/about
+actionLink: /about/
 
 postList: none
 
