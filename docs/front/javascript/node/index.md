@@ -8,4 +8,10 @@ author:
 ---
 
 ## node 案例
+
 - [通过验证邮箱进行注册信息确认](./通过验证邮箱进行注册信息确认.md)
+
+- [commonjs规范requireJs](./commonjs规范requireJs.md)
+
+- [express框架搭建的webSocket请求](./express框架搭建的webSocket请求.md)
+

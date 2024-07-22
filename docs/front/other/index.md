@@ -11,4 +11,7 @@ author:
   name: 北鸟南游
   link: https://shenshuai89.github.io/
 ---
-## qddd 
+## 开发必备
+
+- [移动端开发兼容](./移动端开发兼容.md)
+- [按照字体格式引用svg图标](./按照字体格式引用svg图标.md)
