@@ -24,6 +24,6 @@ sidebar: false
 - 2016-2018 : 郑州大学-计算机科学与技术 
 - 2008-2010 : 河南理工大学-软件学院
 
-
+<!-- 
 ## 联系我
-![我的信息](/assets/images/myinfo.jpeg)
+![我的信息](/assets/images/myinfo.jpeg) -->

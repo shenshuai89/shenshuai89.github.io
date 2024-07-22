@@ -22,7 +22,7 @@ export default {
       description: "前端开发工程师,web前端技术博客,专注web前端学习与总结。",
     },
   },
-  // base: "/", //  部署时的路径 默认 /  可以使用二级地址 /base/
+  base: "/", //  部署时的路径 默认 /  可以使用二级地址 /base/
 
   // 主题配置
   themeConfig: {
@@ -90,7 +90,7 @@ export default {
       },
       {
         text: "关于我",
-        link: "/me/我的资料",
+        link: "/me/about",
       },
       {
         text: "归档",
