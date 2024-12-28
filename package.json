@@ -9,7 +9,7 @@
     "deploy": "bash deploy.sh"
   },
   "engines": {
-    "node": ">=14.20.0 <16.17.0"
+    "node": ">=14.20.0 <17.0.0"
   },
   "devDependencies": {
     "dayjs": "^1.9.7",
