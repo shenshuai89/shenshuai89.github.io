@@ -8,6 +8,9 @@
     "build": "node --max_old_space_size=4096 ./node_modules/vuepress/cli.js build docs",
     "deploy": "bash deploy.sh"
   },
+  "engines": {
+    "node": ">=14.20.0 <16.17.0"
+  },
   "devDependencies": {
     "dayjs": "^1.9.7",
     "inquirer": "^7.1.0",
