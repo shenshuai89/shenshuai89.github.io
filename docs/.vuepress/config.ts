@@ -89,6 +89,15 @@ export default {
         ],
       },
       {
+        text: "资源分享",
+        link: "/share/",
+        items: [
+          { text: "电影资源", link: "/share/movie/" },
+          { text: "儿童动漫", link: "/share/children/" },
+          { text: "英文", link: "/share/english/" },
+        ],
+      },
+      {
         text: "关于我",
         link: "/about/",
       },
@@ -270,6 +279,24 @@ export default {
         //   title: "基于云开发模式开发微信小程序",
         //   path: "/theme/基于云开发模式开发微信小程序",
         // },
+      ],
+      "/share/": [
+        {
+          title: "电影资源",
+          path: "/share/movie/",
+          children: dynamicSideBar("/share/movie/"),
+        },
+        {
+          title: "儿童动漫",
+          path: "/share/children/",
+          children: dynamicSideBar("/share/children/"),
+        },
+        {
+          title: "英文",
+          path: "/share/english/",
+          children: dynamicSideBar("/share/english/"),
+        },
+        ...dynamicSideBar("/share/")
       ],
       "/me/": [
         { title: "自我介绍", path: "/me/我的资料"},
