@@ -8,3 +8,5 @@ author:
 ---
 
 - [电影资源](./movie/index.md)
+- [儿童动画](./children/index.md)
+- [成人英语](./english/index.md)
