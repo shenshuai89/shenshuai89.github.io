@@ -9,3 +9,4 @@ author:
 
 - [功夫熊猫](./movie/功夫熊猫.md)
 - [超能陆战队](./movie/超能陆战队.md)
+- [真实real](./movie/真实real.md)
