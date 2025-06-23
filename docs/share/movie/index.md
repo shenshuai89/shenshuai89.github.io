@@ -7,6 +7,7 @@ author:
   link: https://shenshuai89.github.io/
 ---
 
-- [功夫熊猫](./movie/功夫熊猫.md)
-- [超能陆战队](./movie/超能陆战队.md)
-- [真实real](./movie/真实real.md)
+- [功夫熊猫](./功夫熊猫.md)
+- [超能陆战队](./超能陆战队.md)
+- [真实real](./真实real.md)
+- [色戒2007](./色戒2007.md)
