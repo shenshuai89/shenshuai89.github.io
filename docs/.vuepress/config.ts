@@ -95,6 +95,7 @@ export default {
           { text: "电影资源", link: "/share/movie/" },
           { text: "儿童动漫", link: "/share/children/" },
           { text: "英文", link: "/share/english/" },
+          { text: "棋牌益智", link: "/share/chess/" },
         ],
       },
       {
