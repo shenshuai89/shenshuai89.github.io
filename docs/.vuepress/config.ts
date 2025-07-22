@@ -96,6 +96,7 @@ export default {
           { text: "儿童动漫", link: "/share/children/" },
           { text: "英文", link: "/share/english/" },
           { text: "棋牌益智", link: "/share/chess/" },
+          { text: "两性知识", link: "/share/gender/" },
         ],
       },
       {
