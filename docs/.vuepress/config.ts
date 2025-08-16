@@ -97,6 +97,7 @@ export default {
           { text: "英文", link: "/share/english/" },
           { text: "棋牌益智", link: "/share/chess/" },
           { text: "两性知识", link: "/share/gender/" },
+          { text: "健康知识分享", link: "/share/healthy/" },
         ],
       },
       {
