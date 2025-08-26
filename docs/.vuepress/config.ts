@@ -383,14 +383,14 @@ export default {
       `
     ],
     // ["meta", { name: "theme-color", content: "#11a8cd" }], // 移动浏览器主题颜色
-    // [
-    //   "script",
-    //   {
-    //     "data-ad-client": "ca-pub-7828333725993554",
-    //     async: "async",
-    //     src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
-    //   },
-    // ], // 网站关联Google AdSense 与 html格式广告支持（你可以去掉）
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-7102294115613821",
+        async: "async",
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      },
+    ], // 网站关联Google AdSense 与 html格式广告支持（你可以去掉）
   ],
 
   // 插件配置
