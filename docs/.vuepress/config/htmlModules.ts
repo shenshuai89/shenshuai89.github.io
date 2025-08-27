@@ -33,22 +33,22 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
     关注公众号，回复[<b>前端资源</b>]，可获取 
     </p>
     </div>,
-  <!-- 纵向自适应 -->
-  <ins class="adsbygoogle"
-      style="display:block;padding: 0.95rem;"
+    <!-- 纵向自适应 -->
+    <ins class="adsbygoogle"
+      style="display:block; padding: 0.95rem;"
       data-ad-client="ca-pub-7102294115613821"
-      data-ad-slot="7802654582"
+      data-ad-slot="7118228990"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-  <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>`,
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>`,
   sidebarT:
     `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
     <ins class="adsbygoogle"
           style="display:inline-block;width:100%;max-height:150px"
           data-ad-client="ca-pub-7102294115613821"
-          data-ad-slot="6625304284"></ins>
+          data-ad-slot="3620184722"></ins>
       <script>
           (adsbygoogle = window.adsbygoogle || []).push({});
       </script>`,

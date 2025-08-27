@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "node --max_old_space_size=4096 ./node_modules/vuepress/cli.js dev docs",
     "build": "node --max_old_space_size=4096 ./node_modules/vuepress/cli.js build docs",
-    "deploy": "bash deploy.sh"
+    "deploy": "bash deploy.sh",
+    "deploy:site": "bash deploy.site.sh"
   },
   "engines": {
     "node": ">=14.20.0 <17.0.0"
