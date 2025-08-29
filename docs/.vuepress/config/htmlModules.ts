@@ -34,6 +34,8 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
     </p>
     </div>,
     <!-- 纵向自适应 -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
+     crossorigin="anonymous"></script>
     <ins class="adsbygoogle"
       style="display:block; padding: 0.95rem;"
       data-ad-client="ca-pub-7102294115613821"
@@ -45,6 +47,8 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
       </script>`,
   sidebarT:
     `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
+     crossorigin="anonymous"></script>
     <ins class="adsbygoogle"
           style="display:inline-block;width:100%;max-height:150px"
           data-ad-client="ca-pub-7102294115613821"
