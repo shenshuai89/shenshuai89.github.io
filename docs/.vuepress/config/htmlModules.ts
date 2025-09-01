@@ -43,7 +43,11 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
       <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
+        document.addEventListener("DOMContentLoaded", function() {
+          setTimeout(function() {
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+          }, 500); // 等待 Vue 渲染完成
+        });
       </script>`,
   sidebarT:
     `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
@@ -56,7 +60,11 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
           data-full-width-responsive="true"
           data-ad-slot="3620184722"></ins>
       <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
+        document.addEventListener("DOMContentLoaded", function() {
+          setTimeout(function() {
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+          }, 500); // 等待 Vue 渲染完成
+        });
       </script>`,
   // sidebarB:
   //   `<!-- 正方形 -->
