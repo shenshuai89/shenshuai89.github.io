@@ -32,16 +32,18 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
     <img src="https://open.weixin.qq.com/qr/code?username=shenshuaidesign"  style="width:100%;" />
     关注公众号，回复[<b>前端资源</b>]，可获取 
     </p>
-    </div>,
+    </div>
     <!-- 纵向自适应 -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
      crossorigin="anonymous"></script>
-    <ins class="adsbygoogle"
-      style="display:block; padding: 0.95rem;"
-      data-ad-client="ca-pub-7102294115613821"
-      data-ad-slot="7118228990"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
+     <div style="width: 100%; max-width: 728px; margin: 0 auto;">
+      <ins class="adsbygoogle"
+        style="display:block; padding: 0.95rem; width:100%"
+        data-ad-client="ca-pub-7102294115613821"
+        data-ad-slot="7118228990"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+      </div>
       <script>
         document.addEventListener("DOMContentLoaded", function() {
           setTimeout(function() {
@@ -53,12 +55,14 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
     `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
      crossorigin="anonymous"></script>
-    <ins class="adsbygoogle"
-          style="display:block"
+    <div style="width: 100%; max-width: 728px; margin: 0 auto;">
+      <ins class="adsbygoogle"
+          style="display:block; width:100%"
           data-ad-client="ca-pub-7102294115613821"
           data-ad-format="auto"
           data-full-width-responsive="true"
           data-ad-slot="3620184722"></ins>
+    </div>
       <script>
         document.addEventListener("DOMContentLoaded", function() {
           setTimeout(function() {
