@@ -36,7 +36,7 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
     <!-- 纵向自适应 -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
      crossorigin="anonymous"></script>
-     <div style="width: 100%; max-width: 728px; margin: 0 auto;">
+     <div style="width: 215px; margin: 0 auto;">
       <ins class="adsbygoogle"
         style="display:block; padding: 0.95rem; width:100%"
         data-ad-client="ca-pub-7102294115613821"
@@ -55,7 +55,7 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
     `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
      crossorigin="anonymous"></script>
-    <div style="width: 100%; max-width: 728px; margin: 0 auto;">
+    <div style="width: 233px; margin: 0 auto;">
       <ins class="adsbygoogle"
           style="display:block; width:100%"
           data-ad-client="ca-pub-7102294115613821"
