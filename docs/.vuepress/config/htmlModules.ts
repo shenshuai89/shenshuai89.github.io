@@ -38,11 +38,11 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
      crossorigin="anonymous"></script>
      <div style="width: 215px; margin: 0 auto;">
       <ins class="adsbygoogle"
-        style="display:block; padding: 0.95rem; width:100%"
+        style="display:block; padding: 0.95rem; width:215px; height: 215px;"
         data-ad-client="ca-pub-7102294115613821"
         data-ad-slot="7118228990"
         data-ad-format="auto"
-        data-full-width-responsive="true"></ins>
+        ></ins>
       </div>
       <script>
         document.addEventListener("DOMContentLoaded", function() {
@@ -57,10 +57,9 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
      crossorigin="anonymous"></script>
     <div style="width: 233px; margin: 0 auto;">
       <ins class="adsbygoogle"
-          style="display:block; width:100%"
+          style="display:block; width:233px; max-height:150px"
           data-ad-client="ca-pub-7102294115613821"
           data-ad-format="auto"
-          data-full-width-responsive="true"
           data-ad-slot="3620184722"></ins>
     </div>
       <script>
