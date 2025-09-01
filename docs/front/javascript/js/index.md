@@ -16,8 +16,8 @@ author:
 
 - [33个非常实用的JavaScript一行代码](./33个非常实用的JavaScript一行代码.md)
 - [你不知道的JavaScript上](./你不知道的JavaScript上.md)
-- [js函数的防抖和节流](./js函数的防抖和节流.md)
-- [JavaScript数组遍历方法](./JavaScript数组遍历方法.md)
+- [js函数的防抖和节流](./JavaScript防抖和节流.md)
+- [JavaScript数组遍历方法](./JavaScript数组遍历的方法.md)
 - [js运行过程分析](./js运行过程分析.md)
 - [exports和module.exports以及export的区别](./exports和module.exports以及export的区别.md)
 - [js正则表达式深度解析](./js正则表达式深度解析.md)
