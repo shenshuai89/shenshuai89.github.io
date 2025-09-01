@@ -50,8 +50,10 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
      crossorigin="anonymous"></script>
     <ins class="adsbygoogle"
-          style="display:inline-block;width:100%;max-height:150px"
+          style="display:block"
           data-ad-client="ca-pub-7102294115613821"
+          data-ad-format="auto"
+          data-full-width-responsive="true"
           data-ad-slot="3620184722"></ins>
       <script>
           (adsbygoogle = window.adsbygoogle || []).push({});
