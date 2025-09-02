@@ -14,4 +14,5 @@ author:
 # 开发中使用的工具
 
 - [markdown语法](./markdown语法.md)
+- [vite](./vite.md)
 - [verdaccio搭建npm服务器](./verdaccio搭建npm服务器.md)
