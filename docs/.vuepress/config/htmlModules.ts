@@ -38,37 +38,38 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
      crossorigin="anonymous"></script>
      <div style="width: 215px; margin: 0 auto;">
       <ins class="adsbygoogle"
-        style="display:block; padding: 0.95rem; width:215px; height: 215px;"
+        style="display:block; padding: 0.95rem;"
         data-ad-client="ca-pub-7102294115613821"
         data-ad-slot="7118228990"
         data-ad-format="auto"
+        data-full-width-responsive="true"
         ></ins>
       </div>
       <script>
         document.addEventListener("DOMContentLoaded", function() {
           setTimeout(function() {
             (window.adsbygoogle = window.adsbygoogle || []).push({});
-          }, 500); // 等待 Vue 渲染完成
+          }, 600); // 等待 Vue 渲染完成
         });
       </script>`,
-  sidebarT:
-    `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
-     crossorigin="anonymous"></script>
-    <div style="width: 233px; margin: 0 auto;">
-      <ins class="adsbygoogle"
-          style="display:block; width:233px; max-height:150px"
-          data-ad-client="ca-pub-7102294115613821"
-          data-ad-format="auto"
-          data-ad-slot="3620184722"></ins>
-    </div>
-      <script>
-        document.addEventListener("DOMContentLoaded", function() {
-          setTimeout(function() {
-            (window.adsbygoogle = window.adsbygoogle || []).push({});
-          }, 500); // 等待 Vue 渲染完成
-        });
-      </script>`,
+  // sidebarT:
+  //   `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
+  //   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
+  //    crossorigin="anonymous"></script>
+  //   <div style="width: 233px; margin: 0 auto;">
+  //     <ins class="adsbygoogle"
+  //         style="display:block; width:233px; max-height:150px"
+  //         data-ad-client="ca-pub-7102294115613821"
+  //         data-ad-format="auto"
+  //         data-ad-slot="3620184722"></ins>
+  //   </div>
+  //     <script>
+  //       document.addEventListener("DOMContentLoaded", function() {
+  //         setTimeout(function() {
+  //           (window.adsbygoogle = window.adsbygoogle || []).push({});
+  //         }, 500); // 等待 Vue 渲染完成
+  //       });
+  //     </script>`,
   // sidebarB:
   //   `<!-- 正方形 -->
   //     <ins class="adsbygoogle"
@@ -92,6 +93,19 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
   // pageTshowMode: 'article',
   pageB:
     `<!-- 横向自适应 -->
+      <ins class="adsbygoogle"
+          style="display:block;"
+          data-ad-client="ca-pub-7102294115613821"
+          data-ad-format="auto"
+          data-full-width-responsive="true"
+          data-ad-slot="3620184722"></ins>
+      <script>
+        document.addEventListener("DOMContentLoaded", function() {
+          setTimeout(function() {
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+          }, 500); // 等待 Vue 渲染完成
+        });
+      </script>
      <div 
       style="
         width: 100%;
