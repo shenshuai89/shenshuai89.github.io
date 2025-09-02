@@ -12,3 +12,6 @@ author:
   link: https://shenshuai89.github.io/
 ---
 # 开发中使用的工具
+
+- [markdown语法](./markdown语法.md)
+- [verdaccio搭建npm服务器](./verdaccio搭建npm服务器.md)
