@@ -16,3 +16,6 @@ author:
 - [markdown语法](./markdown语法.md)
 - [vite](./vite.md)
 - [verdaccio搭建npm服务器](./verdaccio搭建npm服务器.md)
+
+# ✨ VibeCoding 工具
+- [为ClaudeCode接入国产大模型](./为ClaudeCode接入国产大模型.md)
