@@ -24,4 +24,6 @@ author:
 圈内大佬 DAOPS 基金会中国区董事和高效运维社区发起人萧田国、新运维社区发起人赵舜东、优维科技 CEO 王津银强烈推荐
 
 ## 资源下载
-下载地址：https://pan.baidu.com/s/1xK32N_gb208VRBzkG1r5jQ 提取码：http://dt1.8tupian.net/2/29369a360b200.pg1
+[下载地址](https://pan.baidu.com/s/1xK32N_gb208VRBzkG1r5jQ) 
+
+**提取码**：http://dt1.8tupian.net/2/29369a360b200.pg1
