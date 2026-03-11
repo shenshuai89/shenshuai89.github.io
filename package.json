@@ -12,10 +12,12 @@
   "engines": {
     "node": ">=14.20.0 <17.0.0"
   },
+  "type":"module",
   "devDependencies": {
     "dayjs": "^1.9.7",
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",
+    "marked": "^17.0.4",
     "vuepress": "1.9.5",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
     "vuepress-plugin-baidu-tongji": "^1.0.1",
