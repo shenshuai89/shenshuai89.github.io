@@ -386,9 +386,9 @@ export default {
     [
       "script",
       {
-        "data-ad-client": "ca-pub-7102294115613821",
-        async: "async",
-        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821",
+        crossorigin: "anonymous",
       },
     ], // 网站关联Google AdSense 与 html格式广告支持（你可以去掉）
   ],

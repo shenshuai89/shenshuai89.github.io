@@ -33,9 +33,7 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
     关注公众号，回复[<b>前端资源</b>]，可获取 
     </p>
     </div>
-    <!-- 纵向自适应 -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
-     crossorigin="anonymous"></script>
+    <!-- 纵向自适应（adsbygoogle.js 已在 config.ts head 全局加载，此处无需重复引入） -->
      <div style="width: 215px; margin: 0 auto;">
       <ins class="adsbygoogle"
         style="display:block; padding: 0.95rem;"
