@@ -30,27 +30,10 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
       margin: 0 0 8px 0;
     ">公众号</p>
     <img src="https://open.weixin.qq.com/qr/code?username=shenshuaidesign"  style="width:100%;" />
-    关注公众号，回复[<b>前端资源</b>]，可获取 
+    关注公众号，回复[<b>前端资源</b>]，可获取前端资源。
     </p>
-    </div>
-    <!-- 纵向自适应（adsbygoogle.js 已在 config.ts head 全局加载，此处无需重复引入） -->
-     <div style="width: 215px; margin: 0 auto;">
-      <ins class="adsbygoogle"
-        style="display:block; padding: 0.95rem;"
-        data-ad-client="ca-pub-7102294115613821"
-        data-ad-slot="7118228990"
-        data-ad-format="auto"
-        data-full-width-responsive="true"
-        ></ins>
-      </div>
-      <script>
-        document.addEventListener("DOMContentLoaded", function() {
-          setTimeout(function() {
-            (window.adsbygoogle = window.adsbygoogle || []).push({});
-          }, 600); // 等待 Vue 渲染完成
-        });
-      </script>`,
-  // sidebarT:
+    </div>`,
+  // sidebarT: // 侧边栏属于导航区域，放置广告违反 AdSense「网站行为：导航」政策，已禁用
   //   `<!--  固定100% * 150px可显示，max-height:150px 未见显示-->
   //   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7102294115613821"
   //    crossorigin="anonymous"></script>
@@ -91,6 +74,18 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
   // pageTshowMode: 'article',
   pageB:
     `<!-- 横向自适应 -->
+      <div style="
+        margin: 24px 0 16px;
+        padding: 8px 12px;
+        border-top: 1px solid rgba(0,0,0,0.08);
+        text-align: center;
+      ">
+        <span style="
+          font-size: 12px;
+          color: #888;
+          letter-spacing: 1px;
+        ">广告 / Advertisement</span>
+      </div>
       <ins class="adsbygoogle"
           style="display:block;"
           data-ad-client="ca-pub-7102294115613821"
